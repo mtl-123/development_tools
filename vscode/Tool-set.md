@@ -17,3 +17,7 @@
 ### 字体
 `Consolas, 'Courier New', monospace,DengXian`
 > 我觉得挺好看的
+
+### vscode-blink-mind
+### vscode-mindmap
+> 思维导图
