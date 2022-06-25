@@ -13,3 +13,7 @@
 
 ### Atom One Dark Theme
 > 颜色主图插件
+
+### 字体
+`Consolas, 'Courier New', monospace,DengXian`
+> 我觉得挺好看的
