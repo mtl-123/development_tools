@@ -21,3 +21,6 @@
 ### vscode-blink-mind
 ### vscode-mindmap
 > 思维导图
+
+### Code Spell Checker
+> 代码拼写检查
